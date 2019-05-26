@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "mysmt",
+      "description": "yes",
+      "id": 1
+    },
+    {
+      "title": "mysmt",
+      "description": "yes",
+      "id": 2
+    },
+    {
+      "title": "A oto mój wpis",
+      "description": "A teraz zmieniam opis",
+      "id": 3
+    },
+    {
+      "title": "Następny...",
+      "description": "Do testów",
+      "userId": "102021739203488652714",
+      "id": 5
+    },
+    {
+      "title": "jjhhggffdfdfgc",
+      "description": "lklklklkl",
+      "userId": "102021739203488652714",
+      "id": 6
+    }
+  ]
+}
